@@ -1,0 +1,69 @@
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\bin\Debug\net6.0-windows\WPF_MusicPlayer_ekz.exe
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\bin\Debug\net6.0-windows\WPF_MusicPlayer_ekz.deps.json
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\bin\Debug\net6.0-windows\WPF_MusicPlayer_ekz.runtimeconfig.json
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\bin\Debug\net6.0-windows\WPF_MusicPlayer_ekz.dll
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\bin\Debug\net6.0-windows\WPF_MusicPlayer_ekz.pdb
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.csproj.AssemblyReference.cache
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz_MarkupCompile.cache
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz_MarkupCompile.lref
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.g.resources
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.AssemblyInfoInputs.cache
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.AssemblyInfo.cs
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.csproj.CoreCompileInputs.cache
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.dll
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\refint\WPF_MusicPlayer_ekz.dll
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.pdb
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.genruntimeconfig.cache
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\ref\WPF_MusicPlayer_ekz.dll
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\Enter playlist name.g.cs
+C:\Users\bodny\source\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\Enter playlist name.baml
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\bin\Debug\net6.0-windows\WPF_MusicPlayer_ekz.exe
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\bin\Debug\net6.0-windows\WPF_MusicPlayer_ekz.deps.json
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\bin\Debug\net6.0-windows\WPF_MusicPlayer_ekz.runtimeconfig.json
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\bin\Debug\net6.0-windows\WPF_MusicPlayer_ekz.dll
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\bin\Debug\net6.0-windows\WPF_MusicPlayer_ekz.pdb
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.csproj.AssemblyReference.cache
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\Enter playlist name.g.cs
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\App.g.cs
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz_MarkupCompile.cache
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz_MarkupCompile.lref
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\Enter playlist name.baml
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\MainWindow.baml
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.g.resources
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.GeneratedMSBuildEditorConfig.editorconfig
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.AssemblyInfoInputs.cache
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.AssemblyInfo.cs
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.csproj.CoreCompileInputs.cache
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.dll
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\refint\WPF_MusicPlayer_ekz.dll
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.pdb
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.genruntimeconfig.cache
+E:\STEP\CS_WPF\repos\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\ref\WPF_MusicPlayer_ekz.dll
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\bin\Debug\net6.0-windows\WPF_MusicPlayer_ekz.exe
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\bin\Debug\net6.0-windows\WPF_MusicPlayer_ekz.deps.json
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\bin\Debug\net6.0-windows\WPF_MusicPlayer_ekz.runtimeconfig.json
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\bin\Debug\net6.0-windows\WPF_MusicPlayer_ekz.dll
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\bin\Debug\net6.0-windows\WPF_MusicPlayer_ekz.pdb
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.csproj.AssemblyReference.cache
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\Enter playlist name.g.cs
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\App.g.cs
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz_MarkupCompile.cache
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz_MarkupCompile.lref
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\Enter playlist name.baml
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\MainWindow.baml
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.g.resources
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.GeneratedMSBuildEditorConfig.editorconfig
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.AssemblyInfoInputs.cache
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.AssemblyInfo.cs
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.csproj.CoreCompileInputs.cache
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.dll
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\refint\WPF_MusicPlayer_ekz.dll
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.pdb
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\WPF_MusicPlayer_ekz.genruntimeconfig.cache
+E:\STEP\FR\WPF_MusicPlayer_ekz\WPF_MusicPlayer_ekz\obj\Debug\net6.0-windows\ref\WPF_MusicPlayer_ekz.dll
